@@ -1,0 +1,7 @@
+#o:1|DNI|Documento de identidad nacional|TRUE|FALSE|FALSE|030|TRUE|FALSE|Te permite entrar a la mejor discoteca de Madrid|
+#o:2|keys|Llaves del coche|TRUE|FALSE|FALSE|007|TRUE|FALSE|Con ellas puedes abrir el link coche (Mini Rojo)|
+#o:3|valeXcopa|Vale por una copa|TRUE|FALSE|FALSE|204|TRUE|FALSE|Te permite obtener una copa del Cocktail Bar|
+#o:4|copa|Bebida alcoholica|TRUE|FALSE|FALSE|NO_ID|TRUE|FALSE|Llevas la copa en la mano, te hace ver a la gente mas atractiva|
+#o:5|microfono|Microfono del karaoke|FALSE|FALSE|FALSE|105|TRUE|FALSE|Te permite gritar un VIVA LA DOBLE en mitad de las canciones|
+#o:6|movil|"Telefono movil"|TRUE|FALSE|FALSE|NO_ID|TRUE|FALSE|Te permite llamar a emergencias o guardar el contacto de alguien interesante|
+#o:7|cigarro|Cigarro para fumar|TRUE|FALSE|FALSE|413|TRUE|FALSE|Te permite fumarte la distancia pero debes subir a la terraza para ello|

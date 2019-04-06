@@ -1,0 +1,57 @@
+#t:id-|name----|N-|E-|S-|W-|U-|D-|ilum|ids_obj|InfoDesc|ExamDesc|GraphicDesc|
+
+#s:000|Ascensor|018|-1|-1|-1|-1|-1|TRUE|1,2,3,4|Ascensor de la planta baja|Te permite moverte entre plantas. Introduce el piso al que te gustaria desplazarte (de 0 a 5)||
+#s:001|Escaleras|-1|15|19|-1|27|-1|TRUE|-1|Escaleras oeste|Te permiten subir una planta mediante el comando go up||
+#s:002|Hall|12|17|21|14|-1|-1|TRUE|-1|Hall (planta baja)|Este es el Hall de la planta baja, desde donde puedes desplazarte al resto de espacios de la planta o ir a una escalera para cambiar de piso||
+#s:003|Escaleras|-1|-1|-1|16|28|-1|TRUE|-1|Escaleras este|Te permiten subir una planta mediante el comando go up||
+#s:004|Escaleras|-1|9|-1|-1|26|-1|TRUE|-1|Escaleras emergencia|Te permiten subir al karaoke mediante el comando go up||
+#s:005|Tren|-1|1|-1|-1|-1|-1|TRUE|-1|Tren de cercanias - Linea C4b|Te encuentras en el tren que te lleva de vuelta a casa. Tranquilo, te bajas en la ultima parada asi que duerme sin preocuparte||
+#s:006|Estacion|-1|3|-1|0|-1|-1|TRUE|-1|Estacion de cercanias Atocha|Ya estas a punto de irte. Puedes montarte en el tren de vuelta a casa utilizando el ticket||
+#s:007|Puertas|-1|5|30|2|-1|-1|TRUE|-1|Cola para entrar a Kapi|Te encuentras a punto de entrar en uno de los lugares mas emblematicos de todo Madrid, necesitas el DNI o un sello para entrar||
+#s:008|Aparcamiento|-1|7|-1|4|-1|-1|TRUE|-1|Aparcamiento cercano a Kapi|Aqui es donde aparcaste el coche al llegar, para entrar en el necesitas las llaves||
+#s:009|Coche|-1|-1|-1|6|-1|-1|TRUE|-1|Coche aparcado|Este es tu maravilloso Seat Leon, si piensas beber mucho mejor vuelve en tren y ya vendras a buscarlo en otro momento||
+#s:010|Recibidor|29|11|13|8|-1|-1|TRUE|-1|Recibidor|Desde aqui puedes aprovechar para dejar cosas en el ropero (por un modico precio) que es encuentra al este. Cuidado, si sales sin tu DNI no podras volvera entrar||
+#s:011|Ropero|-1|-1|-1|10|-1|-1|TRUE|-1|Ropero|Aqui puedes aprovechar para dejar objetos que lleves encima y pasar a buscarlos antes de irte||
+#s:012|Pista|20|23|25|-1|-1|-1|TRUE|-1|Pista principal|Yeah! No pares de bailar hasta el amanecer. Si eres mas de reggaeton mejor sube al cuarto piso ;)||
+#s:013|Reservado|-1|-1|-1|22|-1|-1|TRUE|-1|Reservado pista principal|Tomate un respiro y descansa en los comodos sofas del resevado||
+#s:014|Escenario|24|-1|-1|-1|-1|-1|TRUE|-1|Escenario pista principal|Admira las habilidades de dj Nano mas cerca que nunca||
+
+#s:100|Ascensor|110|-1|-1|-1|-1|-1|TRUE|10,11,12,13,14,15,16,17,18,19,20|Ascensor de la planta 1|Te permite moverte entre planta. Introduce el piso al que te gustaria desplazarte (de 0 a 5)||
+#s:101|Escaleras|-1|107|111|-1|115|116|TRUE|-1|Escaleras oeste|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:102|Hall|104|109|113|106|-1|-1|TRUE|-1|Hall (piso 1)|Este es el Hall del piso 1, desde donde puedes desplazarte al resto de espacios de la planta o ir a una escalera para cambiar de piso||
+#s:103|Escaleras|-1|-1|-1|108|117|118|TRUE|-1|Escaleras este|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:104|Escaleras|-1|101|-1|-1|-1|114|TRUE|-1|Escaleras emergencia|Te permiten bajar al recibidor mediante el comando go down||
+#s:105|Karaoke|-1|103|105|100|-1|-1|TRUE|-1|Karaoke|¿Quieres destrozar tu voz del todo? Pide una cancion o simplemente sientate y deleitate con los berridos ajenos||
+#s:106|Escenario|-1|-1|-1|102|-1|-1|TRUE|-1|Escenario karaoke|No seas timido y sube a cantar "El tractor amarillo" en todo su esplendor||
+#s:107|Tienda|112|-1|-1|-1|-1|-1|TRUE|99,44,11,0|Tienda oficial Kapi|Admira todo tipo de souvenirs y merchandising de la mejor discoteca del pais||
+
+#s:200|Ascensor|210|-1|-1|-1|-1|-1|TRUE|-1|Ascensor de la planta 2|Te permite moverte entre planta. Introduce el piso al que te gustaria desplazarte (de 0 a 5)||
+#s:201|Escaleras|-1|207|211|-1|214|215|TRUE|-1|Escaleras oeste|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:202|Hall|204|209|213|206|-1|-1|TRUE|-1|Hall (piso 2)|Este es el Hall del piso 2, desde donde puedes desplazarte al resto de espacios de la planta o ir a una escalera para cambiar de piso||
+#s:203|Escaleras|-1|-1|-1|208|216|217|TRUE|-1|Escaleras este|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:204|Aseos|-1|201|-1|-1|-1|-1|TRUE|-1|Aseos mixtos|Tu sabras lo que haces aqui||
+#s:205|Barra|-1|203|205|200|-1|-1|TRUE|-1|Cocktail Bar|Disfruta de bebidas inspiradoras en buena compania por tan solo un ojo de la cara||
+#s:206|Sala|-1|-1|-1|202|-1|-1|TRUE|-1|Kissing room|¿Acaso recuerdas como has llegado aqui?||
+#s:207|Reservado|212|-1|-1|-1|-1|-1|TRUE|-1|Reservado palcos|Descansa de tanto bullicio y admira las vistas a la pista principal desde este exclusivo palco||
+
+#s:300|Ascensor|306|-1|-1|-1|-1|-1|TRUE|-1|Ascensor de la planta 3|Te permite moverte entre planta. Introduce el piso al que te gustaria desplazarte (de 0 a 5)||
+#s:301|Escaleras|-1|303|307|-1|310|311|TRUE|-1|Escaleras oeste|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:302|Hall|300|305|309|302|-1|-1|TRUE|-1|Hall (piso 3)|Este es el Hall del piso 3, desde donde puedes desplazarte al resto de espacios de la planta o ir a una escalera para cambiar de piso||
+#s:303|Escaleras|-1|-1|-1|304|312|313|TRUE|-1|Escaleras este|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:304|Aseos|-1|-1|301|-1|-1|-1|TRUE|-1|Aseos masculinos|Espero que no haga falta indicarte como utilizar esta sala||
+#s:305|Sala|308|-1|-1|-1|-1|-1|TRUE|-1|Sala cachimbas|La noche es joven, sientate un rato con tus amigos y llenad vuestros pulmones de un aire mas puro incluso que el del centro de Madrid||
+
+#s:400|Ascensor|406|-1|-1|-1|-1|-1|TRUE|-1|Ascensor de la planta 4|Te permite moverte entre planta. Introduce el piso al que te gustaria desplazarte (de 0 a 5)||
+#s:401|Escaleras|-1|403|407|-1|412|413|TRUE|-1|Escaleras oeste|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:402|Hall|400|405|409|402|-1|-1|TRUE|-1|Hall (piso 4)|Este es el Hall del piso 4, desde donde puedes desplazarte al resto de espacios de la planta o ir a una escalera para cambiar de piso||
+#s:403|Escaleras|-1|-1|-1|404|-1|414|TRUE|-1|Escaleras este|Te permiten bajar una planta mediante el comando go down||
+#s:404|Aseos|-1|-1|401|-1|-1|-1|TRUE|-1|Aseos femeninos|Espero que no haga falta indicarte como utilizar esta sala||
+#s:405|Pista|408|411|-1|-1|-1|-1|TRUE|-1|Pista reggaeton|Si este es tu sitio, DALEEE! Llevame en tu bicicleta hasta que se seque el malecon||
+#s:406|Barra|-1|-1|-1|410|-1|-1|TRUE|-1|Barra de copas|Pagate una copa para aguantar el resto de la noche sin cuestionarte que haces con tu vida||
+
+#s:500|Ascensor|504|-1|-1|-1|-1|-1|TRUE|-1|Ascensor de la planta 5|Te permite moverte entre planta. Introduce el piso al que te gustaria desplazarte (de 0 a 5)||
+#s:501|Escaleras|-1|501|505|-1|-1|510|TRUE|-1|Escaleras oeste|Te permiten subir o bajar una planta mediante el comando go up/down||
+#s:502|Hall|-1|503|507|500|-1|-1|TRUE|-1|Hall (piso5 )|Este es el Hall del piso 5, desde donde puedes desplazarte al resto de espacios de la planta o ir a una escalera para cambiar de piso||
+#s:503|Puesto|-1|-1|-1|502|-1|-1|TRUE|-1|Puesto de pizzas|¿Te sientes agotado despues de tanto bailoteo? Recarga tus fuerzas con una gloriosa porcion de pizza||
+#s:504|Terraza|506|509|-1|-1|-1|-1|TRUE|-1|Terraza|Toma un poco del fresco aire nocturno de madrid y si eres fumador quitate el mono||
+#s:505|Reservado|-1|-1|-1|508|-1|-1|TRUE|-1|Reservado terraza|Acomodate en los amplios sofas de la ultima planta para amenizar la velada||

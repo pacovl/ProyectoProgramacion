@@ -1,0 +1,25 @@
+#s:1|Casilla 1|-1|-1|1|-1|normal space|
+#s:2|Casilla 2|2|-1|3|-1|normal space|
+#s:3|Casilla 3|4|-1|5|-1|normal space|
+#s:4|Casilla 4|6|-1|7|-1|normal space|
+#s:5|Casilla 5 (goose)|8|49|9|-1|goose space|       |<O)__/ | \_-/  |
+#s:6|Casilla 6|10|-1|11|-1|normal space|
+#s:7|Casilla 7|12|-1|13|-1|normal space|
+#s:8|Casilla 8 (bridge)|14|54|15|-1|bridge space|  ___  | / _ \ |/ / \ \|
+#s:9|Casilla 9 (goose)|16|50|17|-1|goose space|       |<O)__/ | \_-/  |
+#s:10|Casilla 10|18|-1|19|-1|normal space|
+#s:11|Casilla 11|20|-1|21|-1|normal space|
+#s:12|Casilla 12|22|-1|23|-1|normal space|
+#s:13|Casilla 13 (goose)|24|51|25|-1|goose space|       |<O)__/ | \_-/  |
+#s:14|Casilla 14|26|-1|27|-1|normal space|
+#s:15|Casilla 15|28|-1|29|-1|normal space|
+#s:16|Casilla 16 (bridge)|30|55|31|-1|bridge space|  ___  | / _ \ |/ / \ \|
+#s:17|Casilla 17 (goose)|32|52|33|-1|goose space|       |<O)__/ | \_-/  |
+#s:18|Casilla 18|34|-1|35|-1|normal space|
+#s:19|Casilla 19|36|-1|37|-1|normal space|
+#s:20|Casilla 20|38|-1|39|-1|normal space|
+#s:21|Casilla 21 (goose)|40|53|41|-1|goose space|       |<O)__/ | \_-/  |
+#s:22|Casilla 22 (death)|42|56|43|-1|death space|  ___  | (O O) |  \m/  |       
+#s:23|Casilla 23|44|-1|45|-1|normal space|
+#s:24|Casilla 24|46|-1|47|-1|normal space|
+#s:25|Casilla 25 (goose) |48|-1|-1|-1|goose space|       |<O)__/ | \_-/  |
